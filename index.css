@@ -1,0 +1,29 @@
+body{
+  background-image: url(hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo{
+  font-size: 50px;
+  color: white;
+  font-family: 'Merienda' , cursive;
+  line-height: 160px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav ul{
+  margin-right: 20px;
+  float: right;
+}
+nav ul li{
+  margin: 0 30px;
+  line-height: 90px;
+  display: inline-block;
+}
+nav ul li a{
+  padding: 7px 13px;
+  font-size: 20px;
+  font-family: 'Merienda' , cursive;
+  color: white;
+  text-decoration: none;
+}
